@@ -1,4 +1,4 @@
-Übe:
+# Übe:
 
 * Täglich Lieblingslied singen.
 * Entspannen, auch beim Sprechen.
@@ -19,3 +19,7 @@ Vor jedem Singen (das Sequenzielle 1. bis 8. geschieht bald fast gleichzeitig):
 6. Eine Rachenraumspannung wird ganz nebenbei durch die Staunstellung aufgebaut. Dabei ist es ebenfalls hilfreich, an die entspannte Gähnstellung zu denken und die Kehle entspannt fallen lassen. (Als ob man einen großen Apfel schlucken wollte.) Fachbegriff: Hängende Kehle.
 7. Unterstützende innere Bilder und Gefühle bewusst einsetzen.
 8. Den Ton nun auf dem Luftstrom schweben lassen und ihn nicht im Hals auf den Stimmlippen festhalten. Das Ziel des Tons ist nicht der Hals, sondern ein Bereich weit über unseren Kopf hinaus.
+
+## Tiefenatmung / Zwerchfellatmung / Ganzatmung
+
+Es erlaubt, die Luft sinnvoll und kontrolliert einzusetzen.
